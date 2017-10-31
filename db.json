@@ -1,0 +1,6 @@
+{
+	"queries": [
+		{"getRAMiniResult":{"GS_I":19628,"IS_CLOSED":"0","IS_NOT_REQUESTER":"0","IS_REFERENT":"1","LAST_STATUS":"Livret F","RA_AS_FIRSTNAME":null,"RA_AS_I":0,"RA_AS_LASTNAME":null,"RA_BIRTHDATE":"10-4-1981","RA_CIVIL_STATE":"Célibataire","RA_DATE_STAYIN_OUTOFSWITZ":null,"RA_FAMILY_COMPOSITION":"F1 ","RA_FIRSTNAME":"SANDRA","RA_I":33333,"RA_LASTNAME":"BAYABU NGOMBA LUBAMBU","RA_ORIGIN":"REPUBLIQUE DEMOCRATIQUE DU CONGO","RA_PICTURE":null,"RA_SEX":"Féminin"}},
+		{"getListGSForRAResult":[{"DateFrom":"22-10-2015","DateTo":null,"FamilyGroupingStatus":"C E4 ","IsRepondant":"1","SocialGroup_I":"66933"},{"DateFrom":"01-09-2015","DateTo":"22-10-2015","FamilyGroupingStatus":null,"IsRepondant":"1","SocialGroup_I":"66932"},{"DateFrom":"29-10-2008","DateTo":"01-09-2010","FamilyGroupingStatus":"C E4 ","IsRepondant":"1","SocialGroup_I":"66933"},{"DateFrom":"01-10-2008","DateTo":"29-10-2008","FamilyGroupingStatus":null,"IsRepondant":"1","SocialGroup_I":"66932"}]}
+	]
+}
